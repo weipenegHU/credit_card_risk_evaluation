@@ -1,0 +1,8 @@
+TRAINING_DIR = "/sda/huweipeng/ml/credit_card_intention_model/dataset/train_set_v1.1"
+DEV_DIR = "/sda/huweipeng/ml/credit_card_intention_model/dataset/dev_set_v1.1"
+TEST_DIR = "/sda/huweipeng/ml/credit_card_intention_model/dataset/test_set_v1.1/"
+AUXILIARY_DIR = "/sda/share/notebooks/notebooks/credit_card_intention_model/data/auxiliary"
+MODEL_UTILS = "/sda/share/notebooks/notebooks/credit_card_intention_model/model/utils"
+MODEL_GBM = "/sda/share/notebooks/notebooks/credit_card_intention_model/model/gbm"
+TRAIN_BINARY_FILE = "/sda/huweipeng/ml/credit_card_intention_model/dataset/pickle/train_v1.1.pkl"
+DEV_BINARY_FILE = "/sda/huweipeng/ml/credit_card_intention_model/dataset/pickle/dev_v1.1.pkl"
